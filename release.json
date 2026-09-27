@@ -1,13 +1,13 @@
 {
-  "tag_name": "v0.1.1",
+  "tag_name": "v0.1.2",
   "assets": [
     {
-      "name": "frametip_0.1.1_aarch64.dmg",
-      "browser_download_url": "https://github.com/shafwan-amin/frametip-downloads/releases/download/v0.1.1/frametip_0.1.1_aarch64.dmg"
+      "name": "frametip_0.1.2_aarch64.dmg",
+      "browser_download_url": "https://github.com/shafwan-amin/frametip-downloads/releases/download/v0.1.2/frametip_0.1.2_aarch64.dmg"
     },
     {
       "name": "SHA256SUMS",
-      "browser_download_url": "https://github.com/shafwan-amin/frametip-downloads/releases/download/v0.1.1/SHA256SUMS"
+      "browser_download_url": "https://github.com/shafwan-amin/frametip-downloads/releases/download/v0.1.2/SHA256SUMS"
     }
   ]
 }
